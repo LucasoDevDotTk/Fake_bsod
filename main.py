@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2021 Lucas Nguyen
+Copyright (c) 2021 lucaso60
 Copyright (c) 2016 Lucas Boppre Niehues
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
