@@ -12,7 +12,7 @@ ____
 # LICENSE
 MIT License
 
-Copyright (c) 2021 Lucas Nguyen
+Copyright (c) 2021 lucaso60
 
 Copyright (c) 2016 Lucas Boppre Niehues
 
