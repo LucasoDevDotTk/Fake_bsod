@@ -1,4 +1,4 @@
-# Fake_bsod_V1.5.0
+# Fake_bsod
 A simple and fake BSOD Virus written in Python and Batch. Only compatible with windows.
 This is for funny purposes only! You can use this to prank your friends, parents or anyone else! Just download it now at https://github.com/lucaso60/Fake_bsod_V1.5.0/releases/. You have to be online, connected to the internet, for the program to download all the dependencies. This program currently only works with laptops or dekstops with only ONE screen, but we are working on the issue.
 ___
